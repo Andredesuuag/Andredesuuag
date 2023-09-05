@@ -1,0 +1,2 @@
+- 👋 Olá me chamo André 
+- 👀 Sou programador 
